@@ -1,4 +1,5 @@
 # Maintainer: Sergey Kanafyev <sergeykanafyev@gmail.com>
+# Contributor: Christian Wieden <wiedenchr@gmail.com>
 # Automation: https://github.com/its-me/aur.hstr
 
 pkgname=hstr
